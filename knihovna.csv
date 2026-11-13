@@ -1,5 +1,5 @@
-id, nazev, autor, rok_vydani, dostupna
-1, Babička, Božena Němcová, 1855, ano
-2, RUR, Karel Čapek, 1920, ne
-3, "Já, robot", Isaac Asimov, 1950, ano
-4, Hobbit, J.R.R, Tolkien, 1937, ne
+id,nazev,autor,rok_vydani,dostupna
+1,Babička,Božena Němcová,1855,ano
+2,RUR,Karel Čapek,1920,ne
+3,"Já, robot",Isaac Asimov,1950,ano
+4,Hobbit,J.R.R,Tolkien,1937,ne
