@@ -1,4 +1,4 @@
-id, nazev, rok_vydani, dostupna
+id, nazev, autor, rok_vydani, dostupna
 1, Babička, Božena Němcová, 1855, ano
 2, RUR, Karel Čapek, 1920, ne
 3, "Já, robot", Isaac Asimov, 1950, ano
